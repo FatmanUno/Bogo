@@ -38,12 +38,17 @@ Un simple programa en C que mostraría cómo se resuelven iteraciones de un algo
 
 - se agregaron barras para visualizar mejor el orden de cada iteracion, por ahora estan crudas pero la idea es que se vean mejor despues
 
+### [0.3.3] - 26-09-2024
+
+- se arreglo la estetica de las barras
+- se solucionaron errores del compilador por declaraciones implicitas de funciones.
+
 # Proximos cambios
 
 - Mostrar un reloj contando el tiempo que lleva el algoritmo.
 - Mostrar un contador de veces que el algoritmo estubo cerca de ordenar los numeros.
 - una pantalla final mostrando el numero de iteracion en que se completo el algoritmo y el tiempo que se demoro.
-- mejorar la estetica delas barras.
+- mejorar la estetica delas barras. <listo>
   
 
 
