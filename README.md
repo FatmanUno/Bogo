@@ -26,3 +26,9 @@ Un simple programa en C que mostraría cómo se resuelven iteraciones de un algo
 - Se añadio un Makefile para poder crear carpetas y compilar.
 
 
+
+
+
+
+chmod +x install.sh
+
