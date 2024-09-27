@@ -28,18 +28,22 @@ Un simple programa en C que mostraría cómo se resuelven iteraciones de un algo
 
 ### [0.2.1] - 26-09-2024
 
-- El programa muesra un bogosort en programa
+- El programa muestra un bogosort en la ventana
 
 ### [0.2.2] - 26-09-2024
 
 - Agregue comandos en el install.sh para evitar errores al montar el proyecto
 
+### [0.3.2] - 26-09-2024
+
+- se agregaron barras para visualizar mejor el orden de cada iteracion, por ahora estan crudas pero la idea es que se vean mejor despues
 
 # Proximos cambios
 
 - Mostrar un reloj contando el tiempo que lleva el algoritmo.
 - Mostrar un contador de veces que el algoritmo estubo cerca de ordenar los numeros.
 - una pantalla final mostrando el numero de iteracion en que se completo el algoritmo y el tiempo que se demoro.
+- mejorar la estetica delas barras.
   
 
 
