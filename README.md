@@ -30,6 +30,11 @@ Un simple programa en C que mostraría cómo se resuelven iteraciones de un algo
 
 - El programa muesra un bogosort en programa
 
+### [0.2.2] - 26-09-2024
+
+- Agregue comandos en el install.sh para evitar errores al montar el proyecto
+
+
 # Proximos cambios
 
 - Mostrar un reloj contando el tiempo que lleva el algoritmo.
