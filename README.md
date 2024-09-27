@@ -14,6 +14,15 @@ Un simple programa en C que mostraría cómo se resuelven iteraciones de un algo
 
 ## Historial de Cambios
 
-### [0.1.0] - 26-09-2024
+### [0.0.1] - 26-09-2024
 - Se creó el repositorio
-- Se agregó el script de instalación `install.sh` con los comandos para instalar las dependencias necesarias
+- Se agregó el script de instalación `install.sh` con los comandos para instalar las dependencias necesarias.
+
+
+### [0.1.1] - 26-09-2024
+
+- Prototipo del programa, una ventana basica que muestra un texto (todavia no se usar opengl xd) 
+
+- Se añadio un Makefile para poder crear carpetas y compilar.
+
+
