@@ -26,6 +26,16 @@ Un simple programa en C que mostraría cómo se resuelven iteraciones de un algo
 - Se añadio un Makefile para poder crear carpetas y compilar.
 
 
+### [0.2.1] - 26-09-2024
+
+- El programa muesra un bogosort en programa
+
+# Proximos cambios
+
+- Mostrar un reloj contando el tiempo que lleva el algoritmo.
+- Mostrar un contador de veces que el algoritmo estubo cerca de ordenar los numeros.
+- una pantalla final mostrando el numero de iteracion en que se completo el algoritmo y el tiempo que se demoro.
+  
 
 
 
