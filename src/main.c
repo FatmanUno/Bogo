@@ -1,14 +1,20 @@
 #include <GL/glut.h>
 #include "funciones.h"
-#include <time.h>  // Para la función time
+#include <time.h>       
 
+clock_t tiempoInicio, tiempoFin;
+double tiempoTotal = 0;
 
 int main(int argc, char **argv) {
-    srand(time(NULL)); // Inicializa el generador de números aleatorios
+    srand(time(NULL)); 
 
-    iniciarVentana(argc, argv);  // Inicializa la ventana
-    glutDisplayFunc(display);    // Registra la función de renderizado
-    glutMainLoop();              // Inicia el bucle principal de GLUT
+    // funcion pal tiempo
+    tiempoInicio = clock(); 
+
+    // inicia las openglcosas
+    iniciarVentana(argc, argv);  
+    glutDisplayFunc(display);    
+    glutMainLoop();              
 
     return 0;
 }

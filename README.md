@@ -34,14 +34,18 @@ Un simple programa en C que mostraría cómo se resuelven iteraciones de un algo
 
 - Agregue comandos en el install.sh para evitar errores al montar el proyecto
 
-### [0.3.2] - 26-09-2024
+### [0.3.2] - 27-09-2024
 
 - se agregaron barras para visualizar mejor el orden de cada iteracion, por ahora estan crudas pero la idea es que se vean mejor despues
 
-### [0.3.3] - 26-09-2024
+### [0.3.3] - 27-09-2024
 
 - se arreglo la estetica de las barras
 - se solucionaron errores del compilador por declaraciones implicitas de funciones.
+
+### [0.4.3] - 29-09-2024
+
+- Se puede cambiar el tamaño de la ventana al igual que agrandarlo a pantalla completa.
 
 # Proximos cambios
 
